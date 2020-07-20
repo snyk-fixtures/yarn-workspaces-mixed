@@ -1,0 +1,13 @@
+{
+  "name": "yarn-workspace-simple",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "ms": "2.1.2"
+  }
+}
