@@ -5,6 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "auth": "./packages/auth",
-    "qs": "6.9.1"
+    "qs": "6.9.4"
   }
 }
